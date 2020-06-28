@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "73838177608",
-    "firebase_url": "https://xp-level-booster-5-41719594.firebaseio.com",
-    "project_id": "xp-level-booster-5-41719594",
-    "storage_bucket": "xp-level-booster-5-41719594.appspot.com"
+    "project_number": "989769629322",
+    "firebase_url": "https://xp-level-booster-6-63561917.firebaseio.com",
+    "project_id": "xp-level-booster-6-63561917",
+    "storage_bucket": "xp-level-booster-6-63561917.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:73838177608:android:d0f3aa00a6654569b5177d",
+        "mobilesdk_app_id": "1:989769629322:android:6aa0b244c94318cd313773",
         "android_client_info": {
-          "package_name": "xp.level.booster5"
+          "package_name": "xp.level.booster6"
         }
       },
       "oauth_client": [
         {
-          "client_id": "73838177608-pgjofrseceiiou0013dro3ec2nmj5215.apps.googleusercontent.com",
+          "client_id": "989769629322-b3cng9q5ulsddearv6hjgpcfmk8illld.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDg-2mGzOMGddiw1tPJaZRhmp5HhHoQBPg"
+          "current_key": "AIzaSyCyJNd8wSvAS5IXJ9J8rUOPCShDoVcW8Rc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "73838177608-pgjofrseceiiou0013dro3ec2nmj5215.apps.googleusercontent.com",
+              "client_id": "989769629322-b3cng9q5ulsddearv6hjgpcfmk8illld.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
